@@ -1,0 +1,55 @@
+{
+	"color_variables_files":
+	[
+		"/Users/uncleFucka/Projects/PZ/dev/res/sass/project/_project.scss",
+		"D:/Projects/Projects/PZ/dev/res/sass/project/_project.scss"
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.zip",
+				"*.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"build",
+				"design",
+				"dev",
+				"docs",
+				"meta",
+				"node_modules",
+				"sources",
+				"tests"
+			],
+			"name": "PZ: Project",
+			"path": "."
+		},
+		{
+			"name": "PZ: HTML",
+			"path": "dev/res/templates"
+		},
+		{
+			"name": "PZ: Sass",
+			"path": "dev/res/sass"
+		},
+		{
+			"name": "PZ: JavaScript",
+			"path": "dev/res/js-dev"
+		},
+		{
+			"name": "PZ: Tests",
+			"path": "tests"
+		},
+		{
+			"name": "PZ: Meta",
+			"path": "meta"
+		},
+		{
+			"name": "PZ: Docs",
+			"path": "docs"
+		}
+	]
+}
+

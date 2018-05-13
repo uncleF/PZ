@@ -1,0 +1,30 @@
+/* Layout */
+
+// sass-lint:disable no-vendor-prefixes
+
+html {
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  min-height: 100%;
+}
+
+// sass-lint:enable no-vendor-prefixes
+
+body {
+  @include tx-boundaries;
+  position: relative;
+  padding: 0 $gap;
+  background: $background;
+}
+
+
+
+/* Phone Layout */
+
+@import '_layout-phone';
+
+
+
+/* Print Layout */
+
+@import '_layout-print';
