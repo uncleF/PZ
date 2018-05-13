@@ -1,14 +1,14 @@
 /* eslint no-multi-spaces: 'off' */
 
 const CONFIG = {
-  PROJECT: 'PZ',              // Project Name
+  PROJECT: 'PZ',                     // Project Name
   LANGUAGE: 'ru',                    // Language
   AMP: false,                        // Google AMP
   THEME: '#fd746c',                  // Theme Color
   PORT: 3000,                        // Server Port
 
   DEVELOPMENT_DIR: 'dev',            // Development
-  BUILD_DIR: 'build',                // Build
+  BUILD_DIR: 'docs',                 // Build
   META_DIR: 'meta',                  // Meta Content
 
   TESTS_DIR: 'tests',                // Tests

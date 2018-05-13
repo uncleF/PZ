@@ -24,7 +24,6 @@ phantomcss
 #TX
 
 build
-design
 dev/res/css
 dev/res/js
 dev/*.html

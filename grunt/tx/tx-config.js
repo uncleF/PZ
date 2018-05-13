@@ -84,6 +84,7 @@ module.exports = config => ({
       /mdz-.*/,
       /js-.*/,
       /ie\d/,
+      /game/,
     ],
     dontCopy: [
       '!**/*.map',

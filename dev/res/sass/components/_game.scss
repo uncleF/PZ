@@ -1,0 +1,20 @@
+.game {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  &:before {
+    @include tx-pseudo(relative);
+    padding: 33.333% 0 0;
+  }
+
+  canvas {
+    position: inherit;
+    top: inherit;
+    left: inherit;
+    width: 960px;
+    height: 720px;
+  }
+
+}

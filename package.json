@@ -4,7 +4,9 @@
   "description": "PZ",
   "main": "build/index.html",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "phaser": "^3.7.1"
+  },
   "devDependencies": {
     "autoprefixer": "*",
     "babel-core": "*",
